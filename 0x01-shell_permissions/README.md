@@ -8,4 +8,6 @@
 8.permits user,group owner and others to execute
 9.all permissions only to others
 10.753
-11.the same mode 
+11.the same mode
+12.execute permissionfor sub directories
+ 
