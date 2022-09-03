@@ -4,4 +4,5 @@
 4.change owner of file from hello to betty
 5.create an empty file hello
 6.adds execute permissions to the owner of file
-7.permits user to execute,group owner to execute,and others to read 
+7.permits user to execute,group owner to execute,and others to read
+8.permits user,group owner and others to execute 
