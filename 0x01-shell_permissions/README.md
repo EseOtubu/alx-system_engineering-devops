@@ -12,4 +12,5 @@
 12.execute permissionfor sub directories
 13create directory
 14.change group
-15.change owner and group owner 
+15.change owner and group owner
+16.symbollic link 
