@@ -11,4 +11,5 @@
 11.the same mode
 12.execute permissionfor sub directories
 13create directory
-14.change group 
+14.change group
+15.change owner and group owner 
