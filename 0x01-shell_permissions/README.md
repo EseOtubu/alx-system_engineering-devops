@@ -6,4 +6,5 @@
 6.adds execute permissions to the owner of file
 7.permits user to execute,group owner to execute,and others to read
 8.permits user,group owner and others to execute
-9.all permissions only to others 
+9.all permissions only to others
+10.753 
