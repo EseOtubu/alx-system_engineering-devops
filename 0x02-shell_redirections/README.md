@@ -5,3 +5,4 @@
 5.display last 10 lines
 6.display first 10 lines
 7.3rd line of a file
+8.creating a file with content
