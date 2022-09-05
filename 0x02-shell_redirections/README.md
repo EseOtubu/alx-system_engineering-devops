@@ -2,3 +2,4 @@
 2.smiley
 3.cat etc/passwd
 4.cat two files
+5.display last 10 lines
