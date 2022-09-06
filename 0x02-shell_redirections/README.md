@@ -8,4 +8,5 @@
 8.creating a file with content
 9.script that writes a command into a file
 10.duplicate
-11.delete 
+11.delete
+12.count files 
