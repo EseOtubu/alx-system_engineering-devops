@@ -10,4 +10,5 @@
 10.duplicate
 11.delete
 12.count files
-13.10 newest file 
+13.10 newest file
+14.sort/uniq 
