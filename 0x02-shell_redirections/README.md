@@ -7,4 +7,5 @@
 7.3rd line of a file
 8.creating a file with content
 9.script that writes a command into a file
-10.duplicate 
+10.duplicate
+11.delete 
